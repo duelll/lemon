@@ -20,7 +20,7 @@ namespace meow.Helper
         [Tooltip("")]
         public int maxHealth = 100;
         [Tooltip("")]
-        public int currentHealth = 0;
+        public int currentHealth = 100;
 
         /// <summary>
         /// Start is called in the frame when a script is enable just before any
